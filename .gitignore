@@ -1,0 +1,9 @@
+.DS_Store
+/project/target/
+target/
+.idea/
+.metals/
+.vscode/
+verve.jar
+Part2Res.json
+Part3Res/
